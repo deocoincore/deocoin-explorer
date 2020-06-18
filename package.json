@@ -25,7 +25,7 @@
   "deocoincoreNode": "deocoincore-node",
   "dependencies": {},
   "devDependencies": {
-    "angular": "~1.6.10",
+    "angular": "~1.8.0",
     "angular-animate": "~1.6.10",
     "angular-resource": "~1.6.10",
     "angular-route": "~1.6.10",
